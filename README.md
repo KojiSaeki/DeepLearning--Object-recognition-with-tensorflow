@@ -12,3 +12,10 @@ arXiv:1409.1556
 Gao Huang and (2016). Densely Connected Convolutional Networks. CoRR, abs/1608.06993
 
 Rupesh Kumar Srivastava and (2015). Highway Networks. CoRR, abs/1505.00387
+
+Nitish Srivastava, Geoffrey Hinton, Alex Krizhevsky, Ilya Sutskever, and Ruslan Salakhutdinov.
+Dropout: A simple way to prevent neural networks from overfitting. J. Mach.
+Learn. Res., 15(1):1929–1958, January 2014.
+
+Jost Tobias Springenberg, Alexey Dosovitskiy, Thomas Brox, and Martin A. Riedmiller.
+Striving for simplicity: The all convolutional net. CoRR, abs/1412.6806, 2014.
