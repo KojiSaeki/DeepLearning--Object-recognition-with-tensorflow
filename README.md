@@ -8,7 +8,7 @@ DenseNet is a network architecture where each layer is directly connected to eve
 <img src="https://cloud.githubusercontent.com/assets/8370623/17981494/f838717a-6ad1-11e6-9391-f0906c80bc1d.jpg" width=502 height=309 />
 
 #### ResNet, VGG-19, CNN-34
-<img src="https://image.slidesharecdn.com/lenettoresnet-170509055515/95/lenet-to-resnet-17-638.jpg?cb=1494309688" width=902 height=309 />
+<img src="https://image.slidesharecdn.com/lenettoresnet-170509055515/95/lenet-to-resnet-17-638.jpg?cb=1494309688" width=702 height=309 />
 
 
 
