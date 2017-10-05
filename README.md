@@ -13,6 +13,8 @@ Very Deep Convolutional Networks for Large-Scale Image Recognition
 K. Simonyan, A. Zisserman
 arXiv:1409.1556
 
+Kaiming He and (2015). Deep Residual Learning for Image Recognition. CoRR, abs/1512.03385, .
+
 Gao Huang and (2016). Densely Connected Convolutional Networks. CoRR, abs/1608.06993
 
 Rupesh Kumar Srivastava and (2015). Highway Networks. CoRR, abs/1505.00387
